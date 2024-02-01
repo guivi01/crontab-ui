@@ -1,6 +1,6 @@
 {
-  "name": "Crontab UI",
-  "description": "Easy and safe way to manage your crontab file",
+  "name": "OTAQ Scheduler UI",
+  "description": "Easy and safe way to manage your scheduler file",
   "repository": "https://github.com/alseambusher/crontab-ui",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["Crontab", "node"]
