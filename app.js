@@ -301,5 +301,5 @@ server.listen(app.get('port'), app.get('host'), function() {
   }
 
   var protocol = startHttpsServer ? "https" : "http";
-  console.log("Crontab UI (" + package_json.version + ") is running at " + protocol + "://" + app.get('host') + ":" + app.get('port') + base_url);
+  console.log("OTAQ Scheduler UI (" + package_json.version + ") is running at " + protocol + "://" + app.get('host') + ":" + app.get('port') + base_url);
 });
